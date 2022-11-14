@@ -1,3 +1,5 @@
 tumblr_keys.php
 request_token.txt
 access_token.txt
+composer.lock
+vendor/
